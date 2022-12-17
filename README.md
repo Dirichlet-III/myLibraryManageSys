@@ -1,0 +1,2 @@
+# myLibraryManageSys
+python写的第一个图书管理系统
